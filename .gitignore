@@ -1,0 +1,16 @@
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results / models / outputs
+results/
+*.h5
+*.pkl
+*.pth
+*.pt
+*.onnx
+*.ckpt
